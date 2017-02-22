@@ -1,0 +1,238 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bo",
+				"border-width"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"html",
+				"html\thtml"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/git/Play/JS/index.html",
+		"/C/git/Play/JS/js/script.js",
+		"/C/git/Review/Module-3/salta0/coursera-test-master/module3-solution/css/styles.css",
+		"/C/git/Review/Module-3/salta0/coursera-test-master/module3-solution/index.html",
+		"/C/git/Play/Assignment-3/index.html",
+		"/C/git/Play/Assignment-3/css/bootstrap.css",
+		"/C/git/Play/Assignment-3/css/custom.css",
+		"/C/git/hello-coursera/Assignment-3/index.html",
+		"/C/git/hello-coursera/Assignment-3/css/custom.css",
+		"/C/git/Review/Module-3/sionnach/fullstack-course4-master/mod3_solution/index.html",
+		"/C/git/Review/Module-3/sionnach/fullstack-course4-master/mod3_solution/css/style.css",
+		"/C/git/Play/Template/index.html",
+		"/C/git/Play/Template/css/styles.css",
+		"/C/git/hello-coursera/Assignment-3/css/bootstrap.css",
+		"/C/git/Play/Template/single-category.html",
+		"/C/git/Play/Template/css/bootstrap.css",
+		"/C/git/Play/Dylan/index.html",
+		"/C/git/Play/Dylan/css/details.css",
+		"/C/git/Review/Philomathus/module2-solution-master/css/style.css",
+		"/C/git/hello-coursera/Assignment-2/index.html",
+		"/C/git/hello-coursera/Assignment-2/css/styles.css",
+		"/C/git/Play/Dylan/css/details",
+		"/C/git/Review/Philomathus/module2-solution-master/index.html",
+		"/C/git/Play/Template/css/bootstrap.min.css",
+		"/C/git/Play/Template/Template.html",
+		"/C/git/Review/pauloamlima/Teste-de-pagina-net-master/Mod2_solution/Css/Style.css",
+		"/C/git/Review/pauloamlima/Teste-de-pagina-net-master/Mod2_solution/index.html",
+		"/C/git/Review/Kmitter/coursera-test-master/html-week2/css/style.css",
+		"/C/git/Review/Kmitter/coursera-test-master/html-week2/index.html",
+		"/C/git/Review/Imarazm/coursera-master/m2ca/index.html",
+		"/C/git/Review/Imarazm/coursera-master/m2ca/css/styles.css",
+		"/C/git/Review/Lamit/module2-solution-gh-pages/index.html",
+		"/C/git/Review/Lamit/module2-solution-gh-pages/css/styles.css",
+		"/C/git/Play/Ashwin/coursera-frontend-master/module2-solution/index.html",
+		"/C/git/Play/Ashwin/coursera-frontend-master/module2-solution/css/main.css",
+		"/C/git/Play/Assignment-2/index.html",
+		"/C/git/Play/Assignment-2/css/styles.css",
+		"/C/git/fullstack-course4/examples/Lecture15/pseudo-selectors-after.html",
+		"/C/git/hello-coursera/site/index.html",
+		"/C/git/fullstack-course4/examples/Lecture10/images.html",
+		"/C/git/fullstack-course4/examples/Lecture12/css-syntax.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"media",
+			"navbar-toggle",
+			"brand",
+			"jumbotron",
+			"visible"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
